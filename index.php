@@ -9,7 +9,7 @@
 <body>
 
 	<header>
-
+		<!--
 		<div class = "uno">
 
 			<p class = "tel">Teléfono: 9982922137</p>
@@ -18,7 +18,7 @@
 			<a href = ""><img class = "rSociales" src="images/nav/instagram.png"></a>
 			<a href = "nosotros.php" class = "conocer">Conócenos</a>
 
-		</div>
+		</div>-->
 
 	</header>
 
